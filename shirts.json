@@ -1,0 +1,38 @@
+[
+  {
+    "uri": "https://www.freepnglogos.com/uploads/t-shirt-png/t-shirt-png-black-shirt-png-transparent-image-pngpix-2.png",
+    "name": "Black T-Shirt",
+    "price": "2,520",
+    "id": 1
+  },
+  {
+    "uri": "https://freepngimg.com/thumb/dress_shirt/7-2-dress-shirt-png-hd.png",
+    "name": "Long Sleeve Shirt",
+    "price": "2,500",
+    "id": 2
+  },
+  {
+    "uri": "https://i.pinimg.com/originals/bd/ef/cb/bdefcbc72735f64db17f3250b1e64245.png",
+    "name": "Orange T-Shirt",
+    "price": "3000",
+    "id": 3
+  },
+  {
+    "uri": "https://i.pinimg.com/originals/3e/e3/dc/3ee3dc6405026c801bf6b87840488b68.png",
+    "name": "Blue Polo",
+    "price": "2,500",
+    "id": 4
+  },
+  {
+    "uri": "https://i.pinimg.com/originals/fc/32/58/fc3258b666e68f9ba7595f87b5c035ef.png",
+    "name": "Red Polo",
+    "price": "2,000",
+    "id": 5
+  },
+  {
+    "uri": "https://pngimg.com/uploads/tshirt/tshirt_PNG5450.png",
+    "name": "Green T-Shirt",
+    "price": "1,500",
+    "id": 6
+  }
+]
