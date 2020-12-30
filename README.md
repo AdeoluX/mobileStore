@@ -1,5 +1,5 @@
 A Prototype shirt store App.
 Here are the screenshots
-![Homescreen](C:\Users\HP\Downloads\Homescreen.jpg)
-![BagScreen](C:\Users\HP\Downloads\BagScreen.jpg)
-![ItemScreen](C:\Users\HP\Downloads\ItemScreen.jpg)
+![Homescreen](https://raw.githubusercontent.com/AdeoluX/mobileStore/main/assets/images/Homescreen.jpg)
+![BagScreen](https://raw.githubusercontent.com/AdeoluX/mobileStore/main/assets/images/BagScreen.jpg)
+![ItemScreen](https://raw.githubusercontent.com/AdeoluX/mobileStore/main/assets/images/ItemScreen.jpg)
